@@ -1,0 +1,12 @@
+{
+    "repository_name": "CLU Repository",
+    "repository_url": "https://silzee.com/getsileo.app/repo/",
+    "packages": [
+        {
+            "package_name": "CLU Package 1",
+            "description": "Sample package for testing.",
+            "version": "2.0",
+            "url": "https://example.com/package1.ipa"
+        }
+    ]
+}
